@@ -1,0 +1,14 @@
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\bin\Debug\netcoreapp3.1\Week2Es.exe
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\bin\Debug\netcoreapp3.1\Week2Es.deps.json
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\bin\Debug\netcoreapp3.1\Week2Es.runtimeconfig.json
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\bin\Debug\netcoreapp3.1\Week2Es.runtimeconfig.dev.json
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\bin\Debug\netcoreapp3.1\Week2Es.dll
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\bin\Debug\netcoreapp3.1\Week2Es.pdb
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\obj\Debug\netcoreapp3.1\Week2Es.csproj.AssemblyReference.cache
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\obj\Debug\netcoreapp3.1\Week2Es.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\obj\Debug\netcoreapp3.1\Week2Es.AssemblyInfoInputs.cache
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\obj\Debug\netcoreapp3.1\Week2Es.AssemblyInfo.cs
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\obj\Debug\netcoreapp3.1\Week2Es.csproj.CoreCompileInputs.cache
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\obj\Debug\netcoreapp3.1\Week2Es.dll
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\obj\Debug\netcoreapp3.1\Week2Es.pdb
+C:\Users\mande\OneDrive\Desktop\Week2Es\Week2Es\obj\Debug\netcoreapp3.1\Week2Es.genruntimeconfig.cache
